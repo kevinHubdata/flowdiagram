@@ -1,0 +1,27 @@
+{
+    "presentation_id": "",
+    "token": "",
+    "flow":{
+	    "1": {
+	        "1_20.00": {
+	            "chapter": "Chapter20", 
+	            "subChatper": "SubChapter00", 
+	            "ref": [], 
+	            "dataTrackName": "",
+	            "referTo": null
+	        },
+	        "1_50.00": {
+	            "chapter": "Chapter50", 
+	            "subChatper": "SubChapter00", 
+	            "ref": ["R.1","R.2","R.3"], 
+	            "dataTrackName": "",
+	            "referTo": null
+	        }
+	    }
+    },
+	"references": {
+	    "R.1": ". Toubib et al. Comparison study: effects of Comigral&reg; vs. &#13;Ibuprofen.&nbsp;Argolife Rev. 2016;75(2-4):107-115.&#13;", 
+	    "R.2": ". Stovner L et al. The global burden of headache: a documentation of headache prevalence and disability worldwide. Cephalalgia. 2007; 27:193 &ndash; 210.&#13;", 
+	    "R.3": "Thomas Frese et al. International Scholarly Research Notices Volume&nbsp;2014&nbsp;(2014), Article ID&nbsp;169428, 6 pages&#13;"
+	}
+}
