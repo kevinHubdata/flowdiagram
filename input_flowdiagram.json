@@ -2,7 +2,8 @@
     "file": {
         "id": "1_10.00",
         "name": "1_10.00.psd",
-        "thumbnail": "url"
+        "thumbnail": "url",
+	"flowmaker_id": "uniqid"
     },
     "references": [
 	{
