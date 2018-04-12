@@ -6,19 +6,27 @@
     },
     "flow":{
 	    "1": {
-	        "1_20.00": {
+	        "uniqid": {
+		    "id": "1_20.00",
+		    "flowmaker_id": "uniqid",
 	            "chapter": "Chapter20", 
-	            "subChatper": "SubChapter00", 
+	            "subChapter": "SubChapter00", 
 		    "chapterID": 10,
 	            "ref": [], 
+		    "swipeBack": 1,
+		    "swipeNext": 3,
 	            "dataTrackName": "",
 	            "referTo": null
 	        },
-	        "1_50.00": {
+	        "uniqid": {
+		    "id": "1_50.00",
+		    "flowmaker_id": "uniqid",
 	            "chapter": "Chapter50", 
-	            "subChatper": "SubChapter00", 
+	            "subChapter": "SubChapter00", 
 		    "chapterID": 10,
 	            "ref": ["R.1","R.2","R.3"], 
+		    "swipeBack": 5,
+		    "swipeNext": 7,
 	            "dataTrackName": "",
 	            "referTo": null
 	        }
