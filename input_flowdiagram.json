@@ -15,5 +15,6 @@
             "text": "Stovner L et al."
         }
     ],
-    "popup":["popup01","popup02"]
+    "popup":["popup01","popup02"],
+    "missing_fonts":["avalon.ttf","avangard.ttf"]
 }
